@@ -1,0 +1,15 @@
+torch==1.8.1
+python==3.8.8
+visdom==0.2.3
+seaborn==0.11.1
+torch_dct==0.1.5
+opencv-python==4.6.0.66
+scikit-learn==0.24.1
+pyyaml==5.4.1
+tensorboard==2.11.0
+piq==0.7.1
+python-hessian==1.1.2
+# If visdom is too slow,
+# you can refer to this program https://github.com/casuallyName/document-sharing/tree/master/static.
+# If you meet the bug [module 'torch' has no attribute 'irfft'],
+# see https://github.com/zh217/torch-dct/issues/26 and modify the package torch_dct.
