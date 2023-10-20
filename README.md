@@ -6,7 +6,7 @@ This repository is an PyTorch Implementation for "FIBA: FEDERATED INVISIBLE BACK
 **Authors**: Lu Zhang, Baolin Zheng \
 **Codes**: https://github.com/LukeZane118/FIBA
 
-Note: Other baselines is preparing...
+Note: Other baselines are preparing...
 ## Environment
 
 The code was developed and tested on the following python environment: 
