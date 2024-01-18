@@ -1,7 +1,7 @@
 # FIBA: FEDERATED INVISIBLE BACKDOOR ATTACK
 
 ## Overview
-This repository is an PyTorch Implementation for "FIBA: FEDERATED INVISIBLE BACKDOOR ATTACK (under review)".
+This repository is an PyTorch Implementation for "FIBA: FEDERATED INVISIBLE BACKDOOR ATTACK (ICASSP 2024)".
 
 **Authors**: Lu Zhang, Baolin Zheng \
 **Codes**: https://github.com/LukeZane118/FIBA
